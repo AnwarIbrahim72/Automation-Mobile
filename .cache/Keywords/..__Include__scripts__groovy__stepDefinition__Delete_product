@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B24BFF0C39679B0F12B70365511B183B",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Delete_product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
