@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4822E5D624981C754BA22CF85F7E88C4",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.View_notification",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

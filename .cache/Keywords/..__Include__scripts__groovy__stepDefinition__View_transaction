@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E58C783EC57338E8B72B399598782802",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.View_transaction",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "365168B90AB5D767C7F3B7FC2EFC65E8",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Submit_bid_price",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
